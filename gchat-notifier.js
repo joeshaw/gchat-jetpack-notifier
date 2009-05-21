@@ -1,5 +1,5 @@
 // Gmail chat notifier for Jetpack
-// http://joeshaw.org/dropbox/gchat-notifier.html
+// http://joeshaw.org/dropbox/gchat-jetpack-notifier/gchat-notifier.html
 // http://github.com/joeshaw/gchat-jetpack-notifier
 // Version 0.0 - 20 May 2009
 //
