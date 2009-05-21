@@ -3,3 +3,10 @@ chat, built on top of Mozilla Labs Jetpack:
 
     https://jetpack.mozillalabs.com/
 
+Source lives in Github:
+
+    http://github.com/joeshaw/gchat-jetpack-notifier
+
+And the "live" code is here for now:
+
+    http://joeshaw.org/dropbox/gchat-jetpack-notifier/gchat-notifier.html
