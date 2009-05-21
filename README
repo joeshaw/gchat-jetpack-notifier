@@ -1,0 +1,5 @@
+A simple notifier for when chat messages come in via Gmail's built-in
+chat, built on top of Mozilla Labs Jetpack: 
+
+    https://jetpack.mozillalabs.com/
+
