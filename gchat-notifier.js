@@ -1,7 +1,7 @@
 // Gmail chat notifier for Jetpack
-// http://joeshaw.org/dropbox/gchat-jetpack-notifier/gchat-notifier.html
+// http://joeshaw.org/jetpacks/gchat-jetpack-notifier/gchat-notifier.html
 // http://github.com/joeshaw/gchat-jetpack-notifier
-// Version 0.0 - 20 May 2009
+// Version 0.1 - 28 May 2009
 //
 // Copyright (c) 2009 Joe Shaw
 // Licensed under MIT X11 license
@@ -15,10 +15,10 @@ function attach_notifier(doc) {
   
 	// Keep track of the people we heard from recently, so that we don't repeat
 	// notifications.
-	old_unread_chats = {}
+	var old_unread_chats = {}
   
 	setInterval(function() {
-			unread_chats = {}
+			var unread_chats = {}
 
 			// This is almost certainly very, very fragile, as the classes seem to change
 			// often in Gmail, but the chat data is not exposed through their greasemonkey
